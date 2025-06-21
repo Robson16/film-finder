@@ -2,7 +2,9 @@
 
 ## Descrição do Projeto
 
-O **Film Finder** é uma aplicação web interativa desenvolvida como parte do **Career path Back-End Engineer** de *CodeCademy*, reestruturado como um projeto Vite Vanilla JS, para facilitar a hospedagem na Vercel com proposito de deixar de facil visualização do projeto funcional. Este projeto permite aos usuários explorar e obter recomendações de filmes aleatórios com base em diferentes gêneros. Se você está procurando o que assistir em seguida, o Film Finder oferece uma maneira fácil e divertida de descobrir novos conteúdos, permitindo que você "goste" ou "não goste" de um filme para obter uma nova sugestão.
+O **Film Finder** é uma aplicação web interativa desenvolvida como parte do **Career path Back-End Engineer** de *CodeCademy*, reestruturada como um projeto Vite Vanilla JS para facilitar a hospedagem na Vercel e permitir fácil visualização do projeto funcional. Este projeto permite aos usuários explorar e obter recomendações de filmes aleatórios com base em diferentes gêneros. Se você está procurando o que assistir em seguida, o Film Finder oferece uma maneira fácil e divertida de descobrir novos conteúdos, permitindo que você "goste" ou "não goste" de um filme para obter uma nova sugestão.
+
+[Acesse o Film Finder online](https://film-finder-tau-ruddy.vercel.app)
 
 ---
 
