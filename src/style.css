@@ -26,6 +26,22 @@ body {
   margin-right: 0;
 }
 
+#poweredBy {
+  text-align: center;
+  margin: 0px auto 35px;
+  display: block;
+  font-family: 'Questrial', sans-serif;
+  font-size: 20px;
+  color: #FEFBEA;
+}
+
+#poweredBy img {
+  max-width: auto;
+  height: 14px;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
 #genreForm,
 #playBtn {
   text-align: center;
