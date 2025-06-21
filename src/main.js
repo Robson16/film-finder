@@ -10,9 +10,9 @@ import {
 document.querySelector('#app').innerHTML = `
   <header>
   <h1 id="appTitle">
-    <img src="/src/popcorn.png" alt="Popcorn">
+    <img src="./popcorn.png" alt="Popcorn">
       Film Finder
-      <img src="/src/popcorn.png" alt="Popcorn">
+      <img src="./popcorn.png" alt="Popcorn">
     </h1>
   </header>
   <form id="genreForm">
